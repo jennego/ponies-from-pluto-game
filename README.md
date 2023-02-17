@@ -1,6 +1,12 @@
 # vite-phaser-starter
 
-This repo contains a phaser project template using vite.
+Simple Pony platformer
+
+- jump clouds
+- collect things
+- semi-generated
+- go to other planets
+- landscape transversal includes up/down layers
 
 ## Getting started
 
