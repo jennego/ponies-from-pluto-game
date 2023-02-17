@@ -8,6 +8,10 @@ Simple Pony platformer
 - go to other planets
 - landscape transversal includes up/down layers
 
+## Uses this template
+
+https://github.com/supertorpe/vite-ts-phaser-starter
+
 ## Getting started
 
 Clone this repository and install its dependencies:
